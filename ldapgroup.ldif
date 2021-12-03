@@ -1,0 +1,4 @@
+dn: cn=Manager,ou=Group,dc=devopsldab,dc=com
+objectClass: top
+objectClass: posixGroup
+gidNumber: 1005
